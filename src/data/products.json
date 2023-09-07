@@ -1,0 +1,32 @@
+[
+  {
+    "product_id": 1,
+    "product_name": "Đai lưng",
+    "image": "https://mdbcdn.b-cdn.net/img/Photos/Horizontal/E-commerce/Products/belt.webp",
+    "price": 50000
+  },
+  {
+    "product_id": 2,
+    "product_name": "Áo thun",
+    "image": "https://tse2.mm.bing.net/th?id=OIP.q-8GNYrQUW1yLQlZb7-zLwHaHa&pid=Api&P=0&h=180",
+    "price": 500000
+  },
+  {
+    "product_id": 3,
+    "product_name": "Quần jean",
+    "image": "https://tse2.mm.bing.net/th?id=OIP.q-8GNYrQUW1yLQlZb7-zLwHaHa&pid=Api&P=0&h=180",
+    "price": 500000
+  },
+  {
+    "product_id": 4,
+    "product_name": "Nhẫn kim cương fake",
+    "image": "https://tse4.mm.bing.net/th?id=OIP.dSo79CyEvzKanSYe2cDVggHaHa&pid=Api&P=0&h=180",
+    "price": 5000000
+  },
+  {
+    "product_id": 5,
+    "product_name": "Nhẫn vàng",
+    "image": "https://tse3.mm.bing.net/th?id=OIP.u4fDY3jnGZP47szXTWi_TgHaHa&pid=Api&P=0&h=180",
+    "price": 4500000
+  }
+]
